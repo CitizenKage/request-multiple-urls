@@ -1,0 +1,15 @@
+{
+  "name": "request-multiple-urls",
+  "version": "1.0.0",
+  "description": "FT technical test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kyle Jones",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "node-fetch": "^2.6.0"
+  }
+}
